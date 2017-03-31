@@ -1,0 +1,54 @@
+body,html {
+	margin:0;
+}
+
+body {
+background-color: blue;
+}
+
+#header {
+	position:fixed;
+	top:15px;
+	left:85px;
+	right:;
+	height:35px;
+	width:175px;
+	border:2px solid red;
+	background-color: white;
+	color: grey;
+}
+#smallboxonetop {
+	position:fixed;
+	top:15px;
+	right:150px;
+	height:35px;
+	width:50px;
+	border:2px solid red; 
+	}
+#smallboxtwotop  {
+		position:fixed;
+		top:15px;
+		right:93px;
+		height:35px;
+		width:50px;
+		border:2px solid red;
+}
+
+		
+#pic {
+		position:fixed;
+		top:95px;
+		left:85px;
+		height:600px;
+		width:1258px;
+		border:2px solid rgb(#5de4ff);
+}
+
+#middlebox {
+		position:fixed;
+		top:95px;
+		left:85px;
+		height:600px;
+		width:1258px;
+		border:2px solid red;
+}
